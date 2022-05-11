@@ -5,7 +5,7 @@
 
 
 
-![EliottZemour's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliottZemour&show_icons=true&theme=default)
+![EliottZemour's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliottZemour&show_icons=true&theme=algolia)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliottZemour&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EliottZemour&layout=compact&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
