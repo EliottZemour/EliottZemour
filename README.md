@@ -1,11 +1,18 @@
 ## 👋 Hi, I’m @EliottZemour
-- 👀 I’m interested in natural language processing, as well as AI ethics and fairness
-- :computer: I’m currently learning computational science and engineering @ EPFL. As of Sept 2022, I'll be visiting at the Decentralized Information Group (MIT CSAIL).
+- 👀 I’m interested in natural language processing, privacy and fairness
+- :computer: Masters in Computational science and engineering @ EPFL. As of Sept 2022, I'll be visiting at the Decentralized Information Group (MIT CSAIL).
 
-### ⚡️ Some projects
+### ⚡️ Some links
 
-- :deciduous_tree: See personal website: [eliottzemour.github.io](https://eliottzemour.github.io) 
+- :deciduous_tree: My personal website: [eliottzemour.github.io](https://eliottzemour.github.io) 
 - 📢 [Who has a voice in the media ?](https://quotebankers.github.io/) An EPFL project to discover who gets to be quoted in newspapers.
+
+### ☕️ Projects and contributions
+
+- 📄 See HF's [Document Question Answering](https://huggingface.co/tasks/document-question-answering) task page
+- ✍️ Generating Yelp reviews with BART: [code](https://github.com/EliottZemour/yelp-reviews/), [demo](https://huggingface.co/spaces/eliolio/yelp-reviews)
+- 👩‍🔬 ArXiv Cards Generator (#1 Hugging Face Gradio Hackathon): [demo](https://huggingface.co/spaces/EuroSciPy2022/arxiv-cards)
+
 <!--[![EliottZemour's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliottZemour&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)-->
 
 
