@@ -11,7 +11,7 @@
 
 - 📄 See HF's [Document Question Answering](https://huggingface.co/tasks/document-question-answering) task page
 - ✍️ Generating Yelp reviews with BART: [code](https://github.com/EliottZemour/yelp-reviews/), [demo](https://huggingface.co/spaces/eliolio/yelp-reviews)
-- 👩‍🔬 ArXiv Cards Generator (#1 Hugging Face Gradio Hackathon): [demo](https://huggingface.co/spaces/EuroSciPy2022/arxiv-cards)
+- 👩‍🔬 ArXiv Cards Generator (#1 Hugging Face Gradio Hackathon - EuroSciPy2022): [demo](https://huggingface.co/spaces/eliolio/arxiv-cards)
 
 <!--[![EliottZemour's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliottZemour&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)-->
 
