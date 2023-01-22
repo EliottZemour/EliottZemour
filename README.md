@@ -1,3 +1,4 @@
+<!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I’m%20Eliott&fontSize=40&animation=fadeIn)-->
 ## 👋 Hi, I’m @EliottZemour
 - 👀 I’m interested in natural language processing, privacy and fairness
 - :computer: Masters in Computational science and engineering @ EPFL. As of Sept 2022, I'll be visiting at the Decentralized Information Group (MIT CSAIL).
