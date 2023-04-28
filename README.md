@@ -1,6 +1,6 @@
 <!--![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=header&text=Hi,%20I’m%20Eliott&fontSize=40&animation=fadeIn)-->
 ## 👋 Hi, I’m @EliottZemour
-- 👀 I’m interested in natural language processing, privacy and fairness
+<!--[!- 👀 I’m interested in natural language processing, privacy and fairness
 - :computer: Masters in Computational science and engineering @ EPFL. As of Sept 2022, I'll be visiting at the Decentralized Information Group (MIT CSAIL).
 
 ### ⚡️ Some links
@@ -14,8 +14,8 @@
 - ✍️ Generating Yelp reviews with BART: [code](https://github.com/EliottZemour/yelp-reviews/), [demo](https://huggingface.co/spaces/eliolio/yelp-reviews)
 - 👩‍🔬 ArXiv Cards Generator (#1 Hugging Face Gradio Hackathon - EuroSciPy2022): [demo](https://huggingface.co/spaces/eliolio/arxiv-cards)
 
-<!--[![EliottZemour's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliottZemour&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)-->
+<!--[![EliottZemour's GitHub stats](https://github-readme-stats.vercel.app/api?username=EliottZemour&show_icons=true&theme=algolia)](https://github.com/anuraghazra/github-readme-stats)
 
 
-![GitHub Views](https://komarev.com/ghpvc/?username=eliottzemour&color=2553ff)  [![Linkedin](https://img.shields.io/badge/Linkedin-2553ff.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/eliott-zemour/)  
+![GitHub Views](https://komarev.com/ghpvc/?username=eliottzemour&color=2553ff)  [![Linkedin](https://img.shields.io/badge/Linkedin-2553ff.svg?logo=linkedin&logoWidth=20)](https://www.linkedin.com/in/eliott-zemour/)  -->
 
